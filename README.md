@@ -22,6 +22,7 @@ To avoid false mark-ups, we are providing the image verification for each covid-
 
 ### Multiple Country Selection
 You can check the current situation of the other affected countries through this app. Change the country and get the update of their current infected people.
-Total Infected People Update
+
+### Total Infected People Update
 This app provides the information of total infected people of any region. The information is now available for the current day, past seven days and past one month.
 
