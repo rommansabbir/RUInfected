@@ -26,3 +26,10 @@ You can check the current situation of the other affected countries through this
 ### Total Infected People Update
 This app provides the information of total infected people of any region. The information is now available for the current day, past seven days and past one month.
 
+
+# Screenshots's
+![](images/img_1.png)
+![](images/img_2.png)
+![](images/img_3.png)
+![](images/img_4.png)
+![](images/img_5.png)
